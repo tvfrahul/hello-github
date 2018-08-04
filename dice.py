@@ -1,3 +1,4 @@
+#hi
 import random
 while 1:
  print("Hello, Lets play dice game")
